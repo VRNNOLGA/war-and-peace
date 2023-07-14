@@ -1,0 +1,23 @@
+.headline, .picture, .header, .btn {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background: #97DEFF;
+}
+h1 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 25px;
+    font-family: 'Instrument Serif', serif;
+}
+#one, #two, #three {
+    padding: 20px;
+    background: #FEFAE0;
+    color: black;
+    font-family: 'Instrument Serif', serif;
+    font-size: 20px;
+}
